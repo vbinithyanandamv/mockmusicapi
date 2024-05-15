@@ -8,6 +8,20 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+    "songs": [
+    {
+      "id": 1,
+      "song title": "Sajini",
+      "singers": "Arijit Singh,Prashant PandeyRam Sampath",
+      "album": "Laapataa Ladies",
+      "img": "https://i.scdn.co/image/ab67616d00004851d5f4378b1ffc9119fdc7306d"
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
